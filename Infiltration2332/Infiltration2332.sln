@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infiltration2332", "Assembly-CSharp.csproj", "{193B3DA0-C5C7-85D5-1A9C-BB7517DB6D28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{193B3DA0-C5C7-85D5-1A9C-BB7517DB6D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193B3DA0-C5C7-85D5-1A9C-BB7517DB6D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193B3DA0-C5C7-85D5-1A9C-BB7517DB6D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193B3DA0-C5C7-85D5-1A9C-BB7517DB6D28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

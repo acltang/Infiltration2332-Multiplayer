@@ -1,0 +1,11 @@
+12:37:27:835: Server started.
+12:37:27:835: Listening.
+12:38:01:775: New connection accepted.
+12:38:04:007: 
+{"message_type":"register","uuid":"7017bfbc-e963-491b-b6b1-f68b5127a07a","username":"Jimmy"}
+12:38:06:085: 
+{"message_type":"list_games","uuid":"7017bfbc-e963-491b-b6b1-f68b5127a07a"}
+12:38:06:781: 
+{"message_type":"create_game","uuid":"7017bfbc-e963-491b-b6b1-f68b5127a07a","game_name":"Jimbo"}
+12:38:07:632: 
+{"message_type":"join_game","uuid":"7017bfbc-e963-491b-b6b1-f68b5127a07a","game_name":"JimJam"}
