@@ -5,7 +5,7 @@ Navigate to the end of each level to win!
 
 Run Infiltration 2332.exe to play.
 
-server.py must be active for multiplayer funcitonality.
+server.py must be active for multiplayer functionality.
 
 
 Made with Unity3D.
