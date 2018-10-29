@@ -39,8 +39,5 @@ For both the client and server, worker threads are used to hold connections and 
 
 The server holds two very simple tables for managing state. The PlayerTable uses the client’s (IP, port) as a primary key, and stores a reference to the client’s TCP socket, so that the server’s main thread knows where to send messages, and stores the client’s username. The GameTable maps the unique id for each game to the game name, as well as the list of players currently in the game.
 
-## Authors
-- Alex Tang
-- Daniel Mamaghani
 
 Made with Unity3D.
